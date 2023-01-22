@@ -1,6 +1,6 @@
  <h1 align="center">Hey Everyone! 👋, I'm Pratyush Nagpal</h1>
 <h3 align="center">Student.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=6F44E0A564F776B930C2F9D311FAF22FD99D3EB4&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fwww.iihglobal.com%2fwp-content%2fuploads%2f2019%2f02%2fdcsad.gif&exph=600&expw=800&q=software+engineer+gif&simid=608053415465474175&FORM=IRPRST&ck=CAD54B1E30953FDB8A18F7493086311C&selectedIndex=20">
+<img align="right" alt="Coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics and Communication Engineering(2021-2025) from National Institute of Technology Raipur
