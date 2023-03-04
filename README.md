@@ -1,6 +1,6 @@
  <h1 align="center">Hey Everyone! 👋, I'm Pratyush Nagpal</h1>
 <h3 align="center">Student.</h3>
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratt0007&label=Profile%20views&color=0e75b6&style=flat" alt="pratt0007" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics and Communication Engineering(2021-2025) from National Institute of Technology Raipur
