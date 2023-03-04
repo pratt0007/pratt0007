@@ -44,7 +44,7 @@
   
 <p align="center">
   <a href="https://github.com/pratt0007"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=pratt0007&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=do-mohit&show_icons=true)  
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratt0007&theme=radical" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratt0007&show_icons=true&locale=en&theme=dracula" alt="virajchandra51"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratt0007&theme=dracula" />
