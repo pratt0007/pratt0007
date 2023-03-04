@@ -5,9 +5,8 @@
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics and Communication Engineering(2021-2025) from National Institute of Technology Raipur
 - 🔭 <samp>Schooled from PCM with Computer Applications stream from Dlay College, CBSE Board - 96.2%
-- 💬 <samp>Ask me about CP/Html/CSS/ThreeJs/React
-- 🌱 <samp>I’m currently learning Frontend/Backend Development
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+- 💬 <samp>Ask me about CP/Html/CSS/React
+- 🌱 <samp> I’m currently learning Python,Git/GitHub and Competitive Programming.
 - 📫 <samp>How to reach me h83pratyush@gmail.com
 
 <h3><b><samp>Connect with Me</samp></b></h3>
