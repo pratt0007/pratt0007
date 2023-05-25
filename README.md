@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratt0007&label=Profile%20views&color=0e75b6&style=flat" alt="pratt0007" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics and Communication Engineering(2021-2025) from National Institute of Technology Raipur
-- 🔭 <samp>Schooled from PCM with Computer Applications stream from Dlay College, CBSE Board - 96.2%
+- 🔭 <samp>Schooled from PCM with Computer Applications stream from Daly College, CBSE Board - 96.2%
 - 💬 <samp>Ask me about CP/Html/CSS/React
 - 🌱 <samp> I’m currently learning Python,Git/GitHub and Competitive Programming.
 - 📫 <samp>How to reach me h83pratyush@gmail.com
